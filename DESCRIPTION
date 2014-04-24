@@ -1,0 +1,13 @@
+Package: gnlsmsn
+Title: Graphic package for nlsmsn
+Description: Graphic package for fitting non-linear models with scale mixture
+    of skew-normal (NL-SMSN) distributions
+Version: 0.1
+Author: Joao Duarte and Raquel Aoki
+Maintainer: Joao Duarte <jdanielnd@gmail.com>
+Depends:
+    R (>= 3.1.0),
+    nlsmsn (>= 0.0-4),
+    tcltk
+License: GPL-3
+LazyData: true
